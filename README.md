@@ -1,5 +1,3 @@
-Here is the link to the dashboard 
-
 ## Belly-button-challenge
 Introduction:
 In this assignment, you will build an interactive dashboard to explore the Belly Button Biodiversity datasetLinks to an external site., which catalogs the microbes that colonize human navels.
@@ -19,10 +17,6 @@ Use otu_ids as the labels for the bar chart.
 
 Use otu_labels as the hovertext for the chart.
 
-![Image Alt text](/940_barchart.jpg)
-
-
-![Image Alt text](</Users/jessicaborbon/belly-button-challenge/940_barchart.png>)
 
 3 Create a bubble chart that displays each sample.
 
